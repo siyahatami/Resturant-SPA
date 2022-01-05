@@ -1,0 +1,8 @@
+D:\Projects\rrrrr\Restaurant\3d2\bin\3d2.dll.config
+D:\Projects\rrrrr\Restaurant\3d2\bin\3d2.dll
+D:\Projects\rrrrr\Restaurant\3d2\bin\3d2.pdb
+D:\Projects\rrrrr\Restaurant\3d2\obj\Release\3d2.csprojAssemblyReference.cache
+D:\Projects\rrrrr\Restaurant\3d2\obj\Release\3d2.csproj.CoreCompileInputs.cache
+D:\Projects\rrrrr\Restaurant\3d2\obj\Release\3d2.csproj.CopyComplete
+D:\Projects\rrrrr\Restaurant\3d2\obj\Release\3d2.dll
+D:\Projects\rrrrr\Restaurant\3d2\obj\Release\3d2.pdb
