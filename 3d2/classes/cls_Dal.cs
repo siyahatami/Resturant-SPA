@@ -10,7 +10,7 @@ namespace _3d2.classes
     class cls_Dal
     {
         // public static string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=db_rest;Integrated Security=True";
-        public static string connectionString = @"Data Source=5.9.72.80;Initial Catalog=db_rest;User Id=tantaneh.com;password=Pl2!z4*M$;Integrated Security=False";
+        public static string connectionString = @"Data Source=dbserver;Initial Catalog=db_rest;User Id=tantaneh.com;password=mypassw0rd;Integrated Security=False";
 
         public static void execScriptNoneRet(string script)
         {
